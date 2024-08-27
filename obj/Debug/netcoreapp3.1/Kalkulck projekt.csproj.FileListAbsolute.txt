@@ -1,0 +1,19 @@
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\bin\Debug\netcoreapp3.1\Kalkulck projekt.exe
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\bin\Debug\netcoreapp3.1\Kalkulck projekt.deps.json
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\bin\Debug\netcoreapp3.1\Kalkulck projekt.runtimeconfig.json
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\bin\Debug\netcoreapp3.1\Kalkulck projekt.runtimeconfig.dev.json
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\bin\Debug\netcoreapp3.1\Kalkulck projekt.dll
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\bin\Debug\netcoreapp3.1\Kalkulck projekt.pdb
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\Kalkulck projekt_MarkupCompile.cache
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\Kalkulck projekt_MarkupCompile.lref
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\Kalkulck projekt.g.resources
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\Kalkulck projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\Kalkulck projekt.AssemblyInfoInputs.cache
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\Kalkulck projekt.AssemblyInfo.cs
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\Kalkulck projekt.csproj.CoreCompileInputs.cache
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\Kalkulck projekt.dll
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\Kalkulck projekt.pdb
+C:\Users\Veselý Lukáš\OneDrive\Plocha\Škola\Druhák\Programování\Kalkulck projekt\Kalkulck projekt\obj\Debug\netcoreapp3.1\Kalkulck projekt.genruntimeconfig.cache
